@@ -1,0 +1,6 @@
+{
+  "name": "Amdox Task Management",
+  "description": "An enterprise-grade task organization and team collaboration platform featuring Kanban boards, progress analytics, role-based permissions, deadlines, and real-time comments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
