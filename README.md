@@ -68,9 +68,3 @@ application.properties
 * Team Chat
 * Dark Mode
 
-
-## Author
-Amruta Gaikwad
-
-## License
-This project is developed for educational and internship purposes.
